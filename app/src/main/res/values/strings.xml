@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts SDM</string>
+    <string-array name="tipo_Telefone">
+        <item>Fixo</item>
+        <item>Celular</item>
+    </string-array>
+    <string-array name="tipo_email">
+        <item>Trabalho</item>
+        <item>Pessoal</item>
+    </string-array>
+</resources>
